@@ -15,4 +15,6 @@ Mainly blocking pornographic, gambling, cult and other bad sites, will increase 
 
 This is a practice project for me. There may be many problems. You are welcome to correct me.
 
+Currently only the hosts file is provided, and software such as AdGurad will be supported in the future.
+
 If you want to add a blocked list, please submit to Issues.
