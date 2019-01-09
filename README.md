@@ -9,6 +9,8 @@ PureNet的初衷是给儿童及青少年和一些特殊群体提供网站屏蔽�
 
 如果大家想增加屏蔽名单，请提交Issues。                                                                                             
 
+本项目具体动态详情请进入电报频道获取，频道链接https://t.me/joinchat/AAAAAFFoykmEBi8T1aIF_g
+
 PureNet's original intention is to provide site blocking for children, teenagers and special groups to protect their web browsing experience.
 
 Mainly blocking pornographic, gambling, cult and other bad sites, will increase advertising shielding in the future
