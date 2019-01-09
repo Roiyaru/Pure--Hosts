@@ -20,3 +20,5 @@ This is a practice project for me. There may be many problems. You are welcome t
 Currently only the hosts file is provided, and software such as AdGurad will be supported in the future.
 
 If you want to add a blocked list, please submit to Issues.
+
+For details of this project, please access the Telegraph Channel, which links https://t.me/joinchat/AAAAAFFoykmEBi8T1aIF_g
