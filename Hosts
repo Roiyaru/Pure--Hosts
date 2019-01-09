@@ -1,7 +1,7 @@
 #*************************************************
-#PureNet:https://github.com/Roiyaru/PureNet
-#URL:https://github.com/Roiyaru/PureNet/blob/master/Hosts
-#version:20190109test
+#PureNet=https://github.com/Roiyaru/PureNet
+#url=https://github.com/Roiyaru/PureNet/blob/master/Hosts
+#version=20190109test
 #*************************************************
 #yori,ikuzo!!!
 #Honoka Kousaka:1
@@ -22,3 +22,4 @@
 0.0.0.0 t66y.com
 0.0.0.0 wuwuwu.me
 0.0.0.0 avgle.com
+0.0.0.0 av01.tv
