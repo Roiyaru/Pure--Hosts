@@ -13,9 +13,11 @@ PureNet的初衷是给儿童及青少年和一些特殊群体提供网站屏蔽�
 
 本项目具体动态详情请进入电报频道获取，频道链接https://t.me/joinchat/AAAAAFFoykmEBi8T1aIF_g
 
+GitHub address: https://github.com/Roiyaru/PureNet
+
 PureNet's original intention is to provide site blocking for children, teenagers and special groups to protect their web browsing experience.
 
-Mainly blocking pornographic, gambling, cult and other bad sites, will increase advertising shielding in the future
+Mainly blocking rogue network services and pornographic, gambling, cult and other bad sites, will increase advertising shielding in the future
 
 This is a practice project for me. There may be many problems. You are welcome to correct me.
 
@@ -23,4 +25,4 @@ Currently only the hosts file is provided, and software such as AdGurad will be 
 
 If you want to add a blocked list, please submit to Issues.
 
-For details of this project, please access the Telegraph Channel, which links https://t.me/joinchat/AAAAAFFoykmEBi8T1aIF_g
+Please refer to the telegraph channel for the specific dynamic details of this project. The channel link https://t.me/joinchat/AAAAAFFoykmEBi8T1aIF_g
