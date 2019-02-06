@@ -1,6 +1,8 @@
 # PureNet
 GitHub地址：https://github.com/Roiyaru/PureNet
 
+Hosts链接：https://raw.githubusercontent.com/Roiyaru/PureNet/master/Hosts
+
 PureNet的初衷是给儿童及青少年和一些特殊群体提供网站屏蔽功能，来保护他们的网络浏览体验
 
 主要屏蔽流氓网络服务与色情、赌博、邪教等不良网站，以后会增加广告屏蔽
@@ -14,6 +16,8 @@ PureNet的初衷是给儿童及青少年和一些特殊群体提供网站屏蔽�
 本项目具体动态详情请进入电报频道获取，频道链接https://t.me/joinchat/AAAAAFFoykmEBi8T1aIF_g
 
 GitHub address: https://github.com/Roiyaru/PureNet
+
+HostsLink：https://raw.githubusercontent.com/Roiyaru/PureNet/master/Hosts
 
 PureNet's original intention is to provide site blocking for children, teenagers and special groups to protect their web browsing experience.
 
