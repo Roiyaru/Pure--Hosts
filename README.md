@@ -13,8 +13,6 @@ PureNet的初衷是给儿童及青少年和一些特殊群体提供网站屏蔽�
 
 如果大家想增加屏蔽名单，请提交Issues。                                                                                             
 
-本项目具体动态详情请进入电报频道获取，频道链接https://t.me/joinchat/AAAAAFFoykmEBi8T1aIF_g
-
 GitHub address: https://github.com/Roiyaru/PureNet
 
 HostsLink：https://raw.githubusercontent.com/Roiyaru/PureNet/master/Hosts
@@ -28,5 +26,3 @@ This is a practice project for me. There may be many problems. You are welcome t
 Currently only the hosts file is provided, and software such as AdGurad will be supported in the future.
 
 If you want to add a blocked list, please submit to Issues.
-
-Please refer to the telegraph channel for the specific dynamic details of this project. The channel link https://t.me/joinchat/AAAAAFFoykmEBi8T1aIF_g
